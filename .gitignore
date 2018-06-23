@@ -1,0 +1,29 @@
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build
+.gradle
+gradle
+gradlew
+gradlew.bat
+
+# other
+eclipse
+run
+
+# FTB_lag
+1s.bat
+2s.bat

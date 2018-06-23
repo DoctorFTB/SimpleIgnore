@@ -1,0 +1,16 @@
+[
+{
+  "modid": "simpleignore",
+  "name": "Simple Ignore",
+  "description": "Simle mod with ignore words in chat",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["FTB_lag"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
