@@ -10,7 +10,7 @@ import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 
-@Mod(modid = SimpleIgnore.MODID, name = "Simple Ignore", version = "@VERSION@", clientSideOnly = true, guiFactory = "ftblag.simpleignore.GuiFactory", acceptedMinecraftVersions = "[1.12.2]")
+@Mod(modid = SimpleIgnore.MODID, name = "Simple Ignore", version = "@VERSION@", clientSideOnly = true, guiFactory = "ftblag.simpleignore.GuiFactory", acceptedMinecraftVersions = "[1.8.9]")
 public class SimpleIgnore {
 
     public static final String MODID = "simpleignore";
